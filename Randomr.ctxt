@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Randomr
+comment1.params=
+comment1.target=void\ main1()
+comment2.params=maximum\ minimum
+comment2.target=int\ getRandomInteger(int,\ int)
+numComments=3
